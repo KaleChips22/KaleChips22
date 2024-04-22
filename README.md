@@ -4,5 +4,5 @@ Name: Kale
 ---
 ## Stuff I do:
 - HTML / CSS / JS Projects
-- THREE.js Stuff
+- MIKUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
 - Maybe Something Else idk
