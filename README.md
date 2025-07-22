@@ -12,17 +12,17 @@ My name is Jonas and I'm a developer.
 
 ✨ Currently working on:
 
-     * Fun side projects
-     * My portfolio
+* Fun side projects
+* My portfolio
 
 📚 Best Work:
 
-     * [https://github.com/KaleChips22/open3-chat](Open3 Chat)
+* [Open3 Chat](https://github.com/KaleChips22/open3-chat)
 
 🎯 Goals:
 
-     * Better Front-end Designs
-     * Learn as much as I can
+* Better Front-end Designs
+* Learn as much as I can
 
 ###
 
