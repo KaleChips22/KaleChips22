@@ -1,9 +1,5 @@
 # Hey! 🥬
 
-###
-
-My name is Jonas and I'm a developer.
-
 ![](https://komarev.com/ghpvc/?username=KaleChips22&style=pixel)
 
 ###
